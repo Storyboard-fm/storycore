@@ -1,6 +1,6 @@
 {
   "name": "@storyboard-fm/storycore",
-  "version": "10.8.1",
+  "version": "1.0.0",
   "description": "Hypercore is a secure, distributed append-only log",
   "main": "index.js",
   "scripts": {
